@@ -1,0 +1,19 @@
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\makinami\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\Zadilo\Sam\disco D\Escuela\Semestre1\Programacion\Programacion 1 practicas\parcial 1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
